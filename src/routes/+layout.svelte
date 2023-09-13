@@ -1,5 +1,58 @@
 <script lang="ts">
 	import '../app.postcss';
+
+	import { AppShell } from '@skeletonlabs/skeleton';
+	import { AppBar } from '@skeletonlabs/skeleton';
+
 </script>
 
-<slot />
+
+<AppShell>
+	<svelte:fragment slot="header">
+		
+		
+<AppBar gridColumns="grid-cols-3" slotDefault="place-self-center" slotTrail="place-content-end">
+	<svelte:fragment slot="lead">(icon)</svelte:fragment>
+	(title)
+	<svelte:fragment slot="trail">(actions)</svelte:fragment>
+</AppBar>
+
+
+	</svelte:fragment>
+	<!-- (sidebarLeft) -->
+	<!-- (sidebarRight) -->
+	<!-- (pageHeader) -->
+	<!-- Router Slot -->
+	<slot />
+	<!-- ---- / ---- -->
+	<svelte:fragment slot="pageFooter">
+	
+	
+	
+<footer class="m-4">
+    <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+      <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://saneleshange.com/" class="hover:underline">Sanele Shange</a>. Triathlete.
+    </span>
+    <ul class="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
+        <li>
+            <a href="#" class="mr-4 hover:underline md:mr-6 ">About</a>
+        </li>
+        <li>
+            <a href="#" class="mr-4 hover:underline md:mr-6">Privacy Policy</a>
+        </li>
+        <li>
+            <a href="#" class="mr-4 hover:underline md:mr-6">Licensing</a>
+        </li>
+        <li>
+            <a href="#" class="hover:underline">Contact</a>
+        </li>
+    </ul>
+    </div>
+</footer>
+
+
+
+
+	</svelte:fragment>
+	<!-- (footer) -->
+</AppShell>
