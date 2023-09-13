@@ -33,7 +33,9 @@ function drawerOpen(): void {
 <Drawer>
 	<a href="/" on:click={drawerClose}>
 		<header>
-			<h2 class="h2 p-2">Sanele Shange</h2>
+			<h1 class="h2">
+				<span class="font-extrabold uppercase p-4">Sanele Shange</span>
+			</h1>
 		</header>
 	</a>
 		
@@ -66,7 +68,9 @@ function drawerOpen(): void {
 
 
 	</svelte:fragment>
-	<h1 class="h1 text-center">Sanele Shange</h1>
+	<h1 class="h1">
+		<span class="font-extrabold uppercase">Sanele Shange</span>
+	</h1>
 	<svelte:fragment slot="trail"><LightSwitch /></svelte:fragment>
 </AppBar>
 
