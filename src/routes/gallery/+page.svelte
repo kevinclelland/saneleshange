@@ -1,1 +1,1 @@
-Gallery
+<h1 class="text-6xl p-4 text-center">Gallery</h1>

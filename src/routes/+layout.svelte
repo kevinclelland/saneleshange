@@ -8,6 +8,7 @@
 	import type { DrawerSettings, DrawerStore } from '@skeletonlabs/skeleton';
 	import Navigation from '$lib/Navigation.svelte';
 	import { initializeStores } from '@skeletonlabs/skeleton';
+	import PageTransition from './transition.svelte';
 
 	initializeStores();
 
@@ -27,6 +28,7 @@ function drawerOpen(): void {
 		drawerStore.close();
 	}
 	
+	export let data;
 
 </script>
 
@@ -80,7 +82,9 @@ function drawerOpen(): void {
 	<!-- (sidebarRight) -->
 	<!-- (pageHeader) -->
 	<!-- Router Slot -->
+	<PageTransition url={data.url}>
 	<slot />
+</PageTransition>
 	<!-- ---- / ---- -->
 	<svelte:fragment slot="pageFooter">
 	

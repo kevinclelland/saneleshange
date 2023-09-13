@@ -1,1 +1,1 @@
-Results
+<h1 class="text-6xl p-4 text-center">Results</h1>
