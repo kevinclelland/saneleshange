@@ -35,9 +35,12 @@ function drawerOpen(): void {
 <Drawer>
 	<a href="/" on:click={drawerClose}>
 		<header>
-			<h1 class="h2">
-				<span class="font-extrabold uppercase p-4 bg-gradient-to-br from-blue-500 to-cyan-300 bg-clip-text text-transparent box-decoration-clone">Sanele Shange</span>
-			</h1>
+			<div class="flex items-center justify-center mx-auto">
+			<img src="/images/Logo.png" class="hidden dark:block max-h-16 w-fit p-2" alt="SS Logo" />
+			<img src="/images/Logodark.png" class="block dark:hidden max-h-16 w-fit p-2" alt="SS Logo" />
+			
+				<span class=" text-2xl font-extrabold uppercase p-4 bg-gradient-to-br from-gray-800 to-gray-400 bg-clip-text text-transparent box-decoration-clone">Sanele Shange</span>
+			</div>
 		</header>
 	</a>
 		
@@ -70,9 +73,19 @@ function drawerOpen(): void {
 
 
 	</svelte:fragment>
-	<h1 class="h1">
-		<span class="font-extrabold uppercase bg-gradient-to-br from-blue-500 to-cyan-300 bg-clip-text text-transparent box-decoration-clone">Sanele Shange</span>
-	</h1>
+	<a href="/">
+
+		<div class="flex items-center justify-center mx-auto">
+
+			
+			<img src="/images/Logo.png" class="hidden dark:block max-h-16 w-fit px-2" alt="SS Logo" />
+			<img src="/images/Logodark.png" class="block dark:hidden max-h-16 w-fit px-2" alt="SS Logo" />
+			<span class="place-self-center text-4xl md:text-6xl font-extrabold uppercase bg-gradient-to-br from-gray-800 to-gray-400 bg-clip-text text-transparent box-decoration-clone"> Sanele Shange</span>
+		</div>
+	</a>
+	
+		
+	
 	<svelte:fragment slot="trail"><LightSwitch /></svelte:fragment>
 </AppBar>
 
