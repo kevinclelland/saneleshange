@@ -1,6 +1,6 @@
 <h1 class="text-6xl p-4 text-center">Results</h1>
 
-<div class="max-w-2xl mx-auto text-center">
+<div class="max-w-2xl px-4 mx-auto text-center">
     <p>I have been racing triathlon for many years now, but here are some highlights of my biggest races at the most competitive level.</p>
 </div>
 
