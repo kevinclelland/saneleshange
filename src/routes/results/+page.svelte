@@ -7,7 +7,7 @@
 <div class="flex grid grid-cols-1 md:grid-cols-3 gap-4 p-4 mx-auto max-w-7xl">
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold">Ironman South Africa 2021</header>
+	<header class="card-header text-xl font-semibold text-center">Ironman South Africa 2021 <img class="max-h-24 mx-auto" src="/images/imsa.webp" alt="Ironman SA Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
@@ -26,7 +26,7 @@
 	
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold">Ironman World Champs Kona 2022</header>
+	<header class="card-header text-xl font-semibold text-center">Ironman World Champs Kona 2022 <img class="max-h-24 mx-auto" src="/images/kona.webp" alt="Kona Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
@@ -44,7 +44,7 @@
 </div>
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold">Ironman South Africa 2023</header>
+	<header class="card-header text-xl font-semibold text-center">Ironman South Africa 2023 <img class="max-h-24 mx-auto" src="/images/imsa.webp" alt="Ironman SA Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
@@ -81,7 +81,7 @@
 </div>
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold">Ironman World Champs Nice 2023</header>
+	<header class="card-header text-xl font-semibold text-center">Ironman World Champs Nice 2023 <img class="max-h-24 mx-auto" src="/images/nice.webp" alt="Ironman Nice Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
