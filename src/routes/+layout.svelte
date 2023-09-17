@@ -36,8 +36,8 @@ function drawerOpen(): void {
 	<a href="/" on:click={drawerClose}>
 		<header>
 			<div class="flex items-center justify-center mx-auto">
-			<img src="/images/Logo.png" class="hidden dark:block max-h-16 w-fit p-2" alt="SS Logo" />
-			<img src="/images/Logodark.png" class="block dark:hidden max-h-16 w-fit p-2" alt="SS Logo" />
+			<img src="/images/Logo_2.webp" class="hidden dark:block max-h-16 w-fit p-2" alt="SS Logo" />
+			<img src="/images/Logodark_2.webp" class="block dark:hidden max-h-16 w-fit p-2" alt="SS Logo" />
 			
 				<span class=" text-2xl font-extrabold uppercase p-4 bg-gradient-to-br from-gray-800 to-gray-400 bg-clip-text text-transparent box-decoration-clone">Sanele Shange</span>
 			</div>
@@ -78,8 +78,8 @@ function drawerOpen(): void {
 		<div class="flex items-center justify-center mx-auto">
 
 			
-			<img src="/images/Logo.png" class="hidden dark:block max-h-16 w-fit px-2" alt="SS Logo" />
-			<img src="/images/Logodark.png" class="block dark:hidden max-h-16 w-fit px-2" alt="SS Logo" />
+			<img src="/images/Logo_2.webp" class="hidden dark:block max-h-16 w-fit px-2" alt="SS Logo" />
+			<img src="/images/Logodark_2.webp" class="block dark:hidden max-h-16 w-fit px-2" alt="SS Logo" />
 			<span class="place-self-center text-4xl md:text-6xl font-extrabold uppercase bg-gradient-to-br from-gray-800 to-gray-400 bg-clip-text text-transparent box-decoration-clone"> Sanele Shange</span>
 		</div>
 	</a>

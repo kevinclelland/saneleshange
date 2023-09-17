@@ -11,7 +11,7 @@
 		<h2 class="h3 text-center max-w-4xl mx-auto p-2">I promote the "Breaking Limits" tagline as, personally, I have already broken through so many limits that have been placed on me...and I have big goals to break through many more. I aim to inspire everyone who follows my journey and supports me, but, I especially want to inspire my son Enzo.</h2>
 		<h2 class="h3 text-center max-w-4xl mx-auto p-2">Please contact me on Instagram using the button below if you would like to get in touch:</h2>
 		<div class="flex mx-auto justify-center p-2"><a href="https://www.instagram.com/sanele_ironman031/" class="btn variant-filled font-bold text-xl">Contact Me</a></div>
-		<img class="max-w-md mx-auto p-2" src="/images/jan.png" alt="With Jan Frodeno">
+		<img class="max-w-md mx-auto p-2" src="/images/gallery/jan_2.webp" alt="With Jan Frodeno">
 	</div>
 		
 		
