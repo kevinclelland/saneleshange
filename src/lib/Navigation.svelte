@@ -9,8 +9,7 @@
 
 <nav class="list-nav p-2">
 	<ul>
-		<li><a href="/" on:click={drawerClose}><span class="items-center"><span class="text-3xl pr-1"></span><span class="text-2xl">Homepage</span></span></a></li>
-		<li><a href="/about" on:click={drawerClose}><span class="items-center"><span class="text-3xl pr-1"></span><span class="text-2xl">About Me</span></span></a></li>
+		<li><a href="/" on:click={drawerClose}><span class="items-center"><span class="text-3xl pr-1"></span><span class="text-2xl">Home</span></span></a></li>
 		<li><a href="/results" on:click={drawerClose}><span class="items-center"><span class="text-3xl pr-1"></span><span class="text-2xl">Results</span></span></a></li>
 		<li><a href="/media" on:click={drawerClose}><span class="items-center"><span class="text-3xl pr-1"></span><span class="text-2xl">Media</span></span></a></li>
 		<li><a href="/gallery" on:click={drawerClose}><span class="items-center"><span class="text-3xl pr-1"></span><span class="text-2xl">Gallery</span></span></a></li>
