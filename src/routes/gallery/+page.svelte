@@ -1,7 +1,20 @@
 <script lang="ts">
 
 const listData = [
-		{
+		
+        {
+            avatar:
+                '/images/gallery/25_2.webp',
+        },
+        {
+            avatar:
+                '/images/gallery/7_2.webp',
+        },
+        {
+            avatar:
+                '/images/gallery/1_2.webp',
+        },
+        {
 			avatar:
 				'/images/gallery/9_2.webp',
 		},
@@ -16,35 +29,28 @@ const listData = [
         {
             avatar:
                 '/images/gallery/4_2.webp',
-        },
-        {
-            avatar:
-                '/images/gallery/25_2.webp',
-        },
-        {
-            avatar:
-                '/images/gallery/7_2.webp',
-        },
-        {
-            avatar:
-                '/images/gallery/8_2.webp',
-        },
-        {
-            avatar:
-                '/images/gallery/1_2.webp',
-        },
+        },       
         {
             avatar:
                 '/images/gallery/10_2.webp',
         },
         {
             avatar:
-                '/images/gallery/12_2.webp',
+                '/images/gallery/13_2.webp',
         },
         {
             avatar:
-                '/images/gallery/13_2.webp',
+                '/images/gallery/18_2.webp',
         },
+        {
+            avatar:
+                '/images/gallery/34_2.webp',
+        },
+        {
+            avatar:
+                '/images/gallery/12_2.webp',
+        },
+        
         {
             avatar:
                 '/images/gallery/14_2.webp',
@@ -61,17 +67,10 @@ const listData = [
             avatar:
                 '/images/gallery/17_2.webp',
         },
-        {
-            avatar:
-                '/images/gallery/18_2.webp',
-        },
+        
         {
             avatar:
                 '/images/gallery/19_2.webp',
-        },
-        {
-            avatar:
-                '/images/gallery/20_2.webp',
         },
         {
             avatar:
@@ -120,14 +119,6 @@ const listData = [
         {
             avatar:
                 '/images/gallery/32_2.webp',
-        },
-        {
-            avatar:
-                '/images/gallery/33_2.webp',
-        },
-        {
-            avatar:
-                '/images/gallery/34_2.webp',
         },
         {
             avatar:
@@ -196,7 +187,15 @@ const listData = [
         {
             avatar:
                 '/images/gallery/11_2.webp',
-        }
+        },
+        {
+            avatar:
+                '/images/gallery/33_2.webp',
+        },
+        {
+            avatar:
+                '/images/gallery/8_2.webp',
+        },
 		
 	];
 
@@ -210,7 +209,7 @@ const listData = [
 <div class="flex flex-wrap grid grid-cols-1 md:grid-cols-4 gap-4 max-w-7xl mx-auto">
     
     <video controls autoplay muted>
-        <source src="/images/gallery/vid.mp4" type="video/mp4">
+        <source src="/images/gallery/vid2.mp4" type="video/mp4">
         
       </video>
 
