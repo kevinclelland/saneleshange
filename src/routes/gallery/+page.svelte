@@ -196,10 +196,6 @@ const listData = [
         {
             avatar:
                 '/images/gallery/11_2.webp',
-        },
-        {
-            avatar:
-                '/images/gallery/vid.mp4',
         }
 		
 	];
@@ -213,6 +209,11 @@ const listData = [
 
 <div class="flex flex-wrap grid grid-cols-1 md:grid-cols-4 gap-4 max-w-7xl mx-auto">
     
+    <video controls autoplay muted>
+        <source src="/images/gallery/vid.mp4" type="video/mp4">
+        
+      </video>
+
         {#each listData as v}
         <div>
             <img class="h-auto max-w-full rounded-lg" src={v.avatar} alt="Sanele in action">
