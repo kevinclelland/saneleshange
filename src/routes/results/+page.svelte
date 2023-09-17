@@ -7,7 +7,7 @@
 <div class="flex grid grid-cols-1 md:grid-cols-3 gap-4 p-4 mx-auto max-w-7xl">
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold text-center">Ironman South Africa 2021 <img class="max-h-24 mx-auto" src="/images/imsa.webp" alt="Ironman SA Logo"></header>
+	<header class="card-header text-xl font-semibold text-center">Ironman South Africa 2021 <img class="max-h-24 mx-auto p-2" src="/images/imsa.webp" alt="Ironman SA Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
@@ -21,12 +21,12 @@
 
 
     </section>
-	<footer class="card-footer">Comments</footer>
+	<footer class="card-footer">Comments: Swim shortened which was a big disappointment.</footer>
 </div>
 	
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold text-center">Ironman World Champs Kona 2022 <img class="max-h-24 mx-auto" src="/images/kona.webp" alt="Kona Logo"></header>
+	<header class="card-header text-xl font-semibold text-center">Ironman World Champs Kona 2022 <img class="max-h-24 mx-auto p-2" src="/images/kona2.png" alt="Kona Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
@@ -40,11 +40,11 @@
 
 
     </section>
-	<footer class="card-footer">Comments</footer>
+	<footer class="card-footer">Comments: Unfortunately had another athlete crash into me at 107km into the bike. I took a hard fall on my hip so had to finish the ride and do the whole run in a lot of pain.</footer>
 </div>
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold text-center">Ironman South Africa 2023 <img class="max-h-24 mx-auto" src="/images/imsa.webp" alt="Ironman SA Logo"></header>
+	<header class="card-header text-xl font-semibold text-center">Ironman South Africa 2023 <img class="max-h-24 mx-auto p-2" src="/images/imsa.webp" alt="Ironman SA Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
@@ -58,12 +58,12 @@
 
 
     </section>
-	<footer class="card-footer">Comments</footer>
+	<footer class="card-footer">Comments: Swim shortened once again.</footer>
 </div>
 
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold">Challenge Roth 2023</header>
+	<header class="card-header text-xl font-semibold">Challenge Roth 2023 <img class="max-h-24 mx-auto p-2" src="/images/rothlogo.png" alt="Roth Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
@@ -81,7 +81,7 @@
 </div>
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold text-center">Ironman World Champs Nice 2023 <img class="max-h-24 mx-auto" src="/images/nice.webp" alt="Ironman Nice Logo"></header>
+	<header class="card-header text-xl font-semibold text-center">Ironman World Champs Nice 2023 <img class="max-h-24 mx-auto p-2" src="/images/nice2.png" alt="Ironman Nice Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
@@ -101,9 +101,17 @@
 </div>
 
 <div class="mx-auto max-w-xl p-4">
-<h2 class="h2">Other Notable Results</h2>
-<ul>
-    <li>Race 1</li>
-    <li>Race 2</li>
+<h2 class="h2">Other Recent Results</h2>
+<ul class="list-disc p-4">
+    <li>South African Triathlon Champs 2019: 8th</li>
+    <li>South African Duathlon Champs 2019: 3rd</li>
+    <li>Durban Ultra 2019: 7th</li>
+    <li>Durban Ultra 2020: 3rd</li>
+    <li>South African Triathlon Champs 2021: 3rd</li>
+    <li>Durban Ultra 2021: 11th</li>
+    <li>South African Triathlon Champs 2022: 5th</li>
+    <li>South African Triathlon Champs 2023: 3rd</li>
+    <li>South African Duathlon Champs 2023: 1st</li>
+    <li>Durban Ultra 2023: 1st</li>
 </ul>
 </div>
