@@ -63,7 +63,7 @@
 
 
 <div class="card card-hover max-w-sm">
-	<header class="card-header text-xl font-semibold">Challenge Roth 2023 <img class="max-h-24 mx-auto p-2" src="/images/rothlogo.png" alt="Roth Logo"></header>
+	<header class="card-header text-xl font-semibold text-center">Challenge Roth 2023 <img class="max-h-24 mx-auto p-2" src="/images/rothlogo.png" alt="Roth Logo"></header>
     <hr />
 	<section class="p-4">
         <ul>
