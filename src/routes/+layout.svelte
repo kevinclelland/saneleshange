@@ -80,7 +80,7 @@ function drawerOpen(): void {
 			
 			<img src="/images/Logo_2.webp" class="hidden dark:block max-h-16 w-fit px-2" alt="SS Logo" />
 			<img src="/images/Logodark_2.webp" class="block dark:hidden max-h-16 w-fit px-2" alt="SS Logo" />
-			<span class="place-self-center text-4xl md:text-6xl font-extrabold uppercase bg-gradient-to-br from-gray-800 to-gray-400 bg-clip-text text-transparent box-decoration-clone"> Sanele Shange</span>
+			<span class="place-self-center text-4xl md:text-6xl font-extrabold uppercase bg-gradient-to-br from-gray-800 dark:from-gray-200 to-gray-400 dark:to-gray-500 bg-clip-text text-transparent box-decoration-clone"> Sanele Shange</span>
 		</div>
 	</a>
 	
