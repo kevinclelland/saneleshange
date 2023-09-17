@@ -3,14 +3,11 @@
 <div class="container h-full mx-auto flex justify-center items-center">
 		<div class="space-y-4">
 		
-
-			<h1 class="h1 text-center p-4">#BreakingLimits</h1>
-
 			<div class="flex grid grid-cols-1">
 				<h2 class="h2 text-center max-w-2xl mx-auto p-2">Hi 👋 I'm Sanele and I'm an <a href="https://en.wikipedia.org/wiki/Ironman_Triathlon">Ironman</a> Triathlete from Durban, South Africa.</h2>
-				<h2 class="h3 text-center max-w-4xl mx-auto p-2">Through many years of dedication and hard work I have the unique achievement of being the first black African man to ever stand on an Ironman podium!</h2>
-				<h2 class="h3 text-center max-w-4xl mx-auto p-2">I have qualified and raced the World Championships twice, enabled by the generous support of my sponsors.</h2>
-				<h2 class="h3 text-center max-w-4xl mx-auto p-2">I promote the "Breaking Limits" tagline as I have broken through so many limits that have been placed on me...and I aim to break through many more. I want to inspire everyone who follows my journey, but, I especially want to inspire my son Enzo.</h2>
+				<h2 class="h3 text-center max-w-4xl mx-auto p-2">Through many years of dedication and hard work I have the unique achievement of being the first black African man to ever stand on an Ironman podium! I have qualified and raced the World Championships twice, enabled by the generous support of my sponsors.</h2>
+				<h1 class="h2 text-center">#BreakingLimits</h1>
+				<h2 class="h3 text-center max-w-4xl mx-auto p-2">I promote the "Breaking Limits" tagline as I have broken through so many limits placed on me...I aim to break through many more. I want to inspire everyone who follows my journey, especially my son Enzo.</h2>
 				<h2 class="h3 text-center max-w-4xl mx-auto p-2">Follow or contact me on Instagram below:</h2>
 				<div class="flex mx-auto justify-center p-2"><a href="https://www.instagram.com/sanele_ironman031/" class="btn variant-filled font-bold text-xl">
 				
